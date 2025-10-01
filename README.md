@@ -53,4 +53,4 @@ That is how we learn and grow as people.
 I find it extremely frustrating that many students (and people in general) are unwilling to face difficult situations,
 Instead, turning to GenAI to create a solution for them.
 While I understand that AI itself is very beneficial for society (I use AI in my everyday life as well),
-GenAI should be prompting warning signs that people need to be able to think and carry through actions by themselves.
+GenAI should be prompting warning signs that people need to be able to think and perform actions by themselves.
